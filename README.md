@@ -16,8 +16,8 @@ Google Ensemble uses a **council of AI agents**, each with a distinct role:
 | Agent | Role | Model | What it does |
 |-------|------|-------|-------------|
 | **Pro** | Orchestrator | Gemini 3 Pro | Plans tasks, coordinates agents, safety checks |
-| **Jules** | Coder | Gemini 3 Pro | Writes code, manages files, refactors |
-| **Stitch** | Designer | Gemini 3 Flash | UI/UX design, React components, styling |
+| **Jules** | Coder | Gemini 3 Pro(Jules) | Writes code, manages files, refactors |
+| **Stitch** | Designer | Gemini 3 Flash(Stitch) | UI/UX design, React components, styling |
 | **Flash** | Critic | Gemini 2.5 Pro | Reviews code, web research, security analysis |
 
 The orchestrator analyzes your request, delegates tasks to the right agents, and synthesizes their outputs into a single response.
