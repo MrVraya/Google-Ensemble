@@ -36,7 +36,7 @@ The orchestrator analyzes your request, delegates tasks to the right agents, and
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/google-ensemble.git
+git clone https://github.com/MrVraya/Google-Ensemble.git
 cd google-ensemble
 npm install
 ```
