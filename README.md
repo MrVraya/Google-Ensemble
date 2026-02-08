@@ -1,6 +1,13 @@
 # Google Ensemble
 
-An autonomous multi-agent IDE powered by Google Gemini. Four specialized AI agents collaborate to plan, code, design, and review your projects — all running locally on your machine.
+An autonomous multi-agent IDE powered by Google. Four specialized AI agents collaborate to plan, code, design, and review your projects — all running locally on your machine.
+
+![Google Ensemble](assets/banner.png)
+
+## Tips for getting started:
+1. `/help` for more information.
+2. Ask coding questions, edit code or run commands.
+3. Be specific for the best results.
 
 ## How It Works
 
